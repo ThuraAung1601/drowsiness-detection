@@ -35,6 +35,8 @@ python train_cnn.py
 
 ## Training
 
+![Curves](lr_curves.png)
+
 - ResNet50 Transfer learning ( Baseline ) : 87.68%
 - ResNet50 Transfer learning + Regularization : 87.78%
 - ResNet50 Fine Tuning : 90.62%
